@@ -10,9 +10,10 @@ Codes for the paper **Bipartite Flat-Graph Network for Nested Named Entity Recog
 
 ## Data 
 
-Prepare training data and word/label embeddings in [data](data).
+Prepare training data and word embeddings in [data](data).
 
 >Each line has multiple columns separated by a blank key. 
+
 >Each line contains (the first line contains the outermost entities)
 >```
 >word	label1	label2	label3	...	labelN
